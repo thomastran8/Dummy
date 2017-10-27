@@ -1,0 +1,2 @@
+This is a B text file
+Added edits to B file
